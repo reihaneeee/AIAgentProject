@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08404997-6212-458a-b8ad-df007d8088e2" name="Changes" comment="6 commit - (trello works - and i am so happy)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sClx49cMmwEz5RbUutQ81cgnuN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08404997-6212-458a-b8ad-df007d8088e2" name="Changes" comment="" />
+      <created>1737967682969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737967682969</updated>
+      <workItem from="1737967684067" duration="3511000" />
+      <workItem from="1738014351965" duration="1165000" />
+      <workItem from="1738052123169" duration="1265000" />
+      <workItem from="1738085042804" duration="43000" />
+      <workItem from="1738091656955" duration="5000" />
+      <workItem from="1738091694644" duration="3000" />
+      <workItem from="1738158406612" duration="4284000" />
+      <workItem from="1738220183997" duration="13935000" />
+      <workItem from="1738260168381" duration="1887000" />
+      <workItem from="1738262664747" duration="7508000" />
+      <workItem from="1738346984579" duration="9105000" />
+      <workItem from="1738359465673" duration="3119000" />
+      <workItem from="1738404357346" duration="3456000" />
+      <workItem from="1738410145199" duration="22793000" />
+      <workItem from="1738506076111" duration="5000" />
+      <workItem from="1738528887273" duration="4537000" />
+      <workItem from="1738564062585" duration="20873000" />
+      <workItem from="1738748362108" duration="9843000" />
+      <workItem from="1738760139356" duration="15954000" />
+      <workItem from="1738783593789" duration="59000" />
+      <workItem from="1738818943251" duration="1160000" />
+      <workItem from="1738845853906" duration="153000" />
+      <workItem from="1738853703487" duration="65000" />
+      <workItem from="1738853806202" duration="19000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit(first version of the project)">
+      <option name="closed" value="true" />
+      <created>1738273042647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738273042647</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit(almost works-there is a problem with json parsing)">
+      <option name="closed" value="true" />
+      <created>1738363558798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738363558798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit(receives the json from llm but there is some little problems with logic)&#10;also I have not implemented the Google calendar future">
+      <option name="closed" value="true" />
+      <created>1738444060675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738444060675</updated>
+    </task>
+    <task id="LOCAL-00004" summary="forth commit(this version works there is only a problem with the priority recognition)">
+      <option name="closed" value="true" />
+      <created>1738449519311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738449519311</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fifth commit-trello json works ok-just because i live in iran it does not responde me">
+      <option name="closed" value="true" />
+      <created>1738599590058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738599590059</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6 commit - (trello works - and i am so happy)">
+      <option name="closed" value="true" />
+      <created>1738755093019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738755093019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first commit(first version of the project)" />
+    <MESSAGE value="second commit(almost works-there is a problem with json parsing)" />
+    <MESSAGE value="third commit(receives the json from llm but there is some little problems with logic)&#10;also I have not implemented the Google calendar future" />
+    <MESSAGE value="forth commit(this version works there is only a problem with the priority recognition)" />
+    <MESSAGE value="fifth commit-trello json works ok-just because i live in iran it does not responde me" />
+    <MESSAGE value="6 commit - (trello works - and i am so happy)" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 commit - (trello works - and i am so happy)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
