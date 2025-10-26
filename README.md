@@ -7,19 +7,12 @@ Also, there is something else I worked on; a retrieval system that keeps the dat
 
 The thing What I have learned by doing this project:
 1. using API calls and how they work and why and when we use them
-   
 2. interacting with different large language models(LLM) and sending prompts to them using API calls receiving their JSON responses and how parse the JSON response in a specific way that we need in our project and extracting the data we want.
-   
 3. prompt engineering; I have tried many prompts to make the LLM give me a good and full answer that I want and learned how should i ask questions from LLMs to give you
 a good answer and make sure that its answers are not hilustration are correct.
-
 4. how to use docker
-   
 5. how to use neo4j; and learn the query language to work with it which is Cypher
-   
 6.also learned about different databases(especially vector databases and graph databases) and their privilege and when should i use graph and vector databases and 
 when I should not.
-
 7. learned about howLLMss work and how can I use them as an agent in my programs
-    
 8. I learned about the retrieval systems and how they can help us to get better answers.
