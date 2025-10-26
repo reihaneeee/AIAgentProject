@@ -53,27 +53,32 @@ The application operates as a multi-step pipeline, transforming user requests in
 ```bash
 git clone [https://github.com/your-username/AIAgentProject.git](https://github.com/your-username/AIAgentProject.git)
 cd AIAgentProject
+```
+---
 
-### 2. Set up Environment Variables
-Create a .env file in the project root and add your API keys:
+### 🔑 2. Set up Environment Variables
+Create a `.env` file in the project root and add your API keys:
 
-Code snippet
-
+```dotenv
 TRELLO_API_KEY=your_key
 TRELLO_API_TOKEN=your_token
 NEO4J_URI=bolt://localhost:7687
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=your_password
 # ... any other keys
-3. Build and Run with Docker
+```
+
+---
+🐳 3. Build and Run with Docker
 This project uses Docker Compose to manage all its services (the main app, Neo4j, and the vector DB).
 
-Bash
-
 docker-compose up -d --build
-4. Access the Application
+
+---
+🌐 4. Access the Application
 The application should now be running. You can interact with it via its API (e.g., at http://localhost:8000).
 
+---
 💡 Project Learnings & Key Concepts
 This project served as a deep dive into building a modern, agentic AI system. The key technical concepts explored include:
 
@@ -90,5 +95,8 @@ Graph Databases (Neo4j): Modeling complex, non-linear relationships (task depend
 Polyglot Persistence: Understanding the distinct advantages of different database paradigms—using a graph database (Neo4j) for its powerful relationship modeling and a vector database for efficient semantic retrieval.
 
 LLM as an Agent: Moving beyond simple text generation to use an LLM as the "brain" of an autonomous system that can perceive (get tasks), plan (create a schedule), and act (call APIs).
+
+Retrieval-Augmented Generation (RAG): Implementing a retrieval system to provide the LLM with long-term memory and external context, significantly improving the quality and personalization of its responses.
+
 
 Retrieval-Augmented Generation (RAG): Implementing a retrieval system to provide the LLM with long-term memory and external context, significantly improving the quality and personalization of its responses.
